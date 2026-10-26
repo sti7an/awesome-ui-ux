@@ -114,6 +114,7 @@ The bedrock of good design. Before you touch a tool, get cozy with the principle
 - [About Face: The Essentials of Interaction Design](https://www.wiley.com/en-us/About+Face%3A+The+Essentials+of+Interaction+Design%2C+4th+Edition-p-9781118766576) — Alan Cooper's encyclopedic book on interaction design.
 - [Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) — Don Norman's timeless classic on user-centered design.
 - [Cognitive Lode](http://cognitivelode.com/) — Brain-inspired design tips and research reviews, by cxpartners.
+- [Tap Target Speed Lab](https://artigram.cafeboon.com/p/r9dsxgg) - Interactive test that has you tap targets of different widths, then shows your own Fitts's law fit, misses and the WCAG 24 and 44 px marks.
 
 ## 📚 Design Guidelines & Style Guides
 
