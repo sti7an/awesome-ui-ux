@@ -660,6 +660,7 @@ For when you need a creative spark. Bookmark these.
 - [SaaS Landing Page](https://saaslandingpage.com/) — Inspiration for SaaS landing pages.
 - [Cruip](https://cruip.com/) — Beautiful, free landing page templates.
 - [Lovable Tools Inspiration](https://lovable.tools/) — Curated visual references for designers and builders.
+- [Design Details](https://designdetails.io/) - Free library of real website designs with full-page captures, motion recordings, typography, color breakdowns, and DESIGN.md files.
 
 ## 📰 Blogs & Magazines
 
